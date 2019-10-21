@@ -33,7 +33,7 @@ Informally, we usually think of probability as a number that describes the likel
 
 To formalize probability theory, we first need to define a few terms:
 
-- An **experiment** is any activity that produces or observes an outcome.  Examples are flipping a coin, rolling a 6-sided die, or trying a new route to work to see if it's faster than the old route.
+- An **experiment** is any activity that produces or observes an outcome.  Examples are flipping a coin, rolling a 6-sided dice, or trying a new route to work to see if it's faster than the old route.
 - The **sample space** is the set of possible outcomes for an experiment.  For a coin flip, the sample space is {H,T} where the brackets represent the sample space and H/T represent heads/tails respectively.  For the die, the sample space is {1,2,3,4,5,6}.  For the amount of time it takes to get to work, the sample space is all possible real numbers greater than zero (since it can't take a negative amount of time to get somewhere, at least not yet). 
 - An **event** is a subset of the sample space.  Here we will focus primarily on *elementary events* which consist of exactly one possible outcome, such as heads in a coin flip, a roll of 4 in dice, or 21 minutes to get home by the new route. 
 
